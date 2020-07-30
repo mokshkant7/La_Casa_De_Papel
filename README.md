@@ -1,5 +1,7 @@
 # La_Casa_De_Papel
 
+![prof]()
+
 To see what this repo can do just decrypt the Readme from the next paragraph onwards. Instructions for decryption can be found somewhere in the code :P
 
 El profesor es una de las personas más inteligentes. Él ha estado planeando el robo durante meses. Tokio, Nairobi, Río, Moscú, Denver, Helsinki, Oslo y Berlín son los que estarán dentro de la casa de moneda real y el profesor estará en una casa de seguridad cerca donde usará el disfraz de un fabricante de sidra como tapadera. Ahora el profesor necesita 2 formas de redes separadas. En primer lugar, una conexión confiable y persistente para negociar con el inspector Raquel Murillo y, en segundo lugar, una red poco confiable pero segura para comunicarse con el equipo.
